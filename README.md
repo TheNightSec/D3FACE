@@ -7,12 +7,12 @@ NS-Defacer is a auto html injecter, In other words It's a auto defacer to deface
 
 Install the requirements
 
-```bash
+```python
   cd NS-DEFACE-V1.0
   python3 install -r requirments.txt
 ```
 Run with python3
-```bash
+```python
 python3 ns-deface.py
 ```
 
