@@ -4,5 +4,4 @@ requests
 sys
 os
 time
-google
 coloroma
