@@ -18,7 +18,7 @@ python3 ns-deface.py
 
 ## Preview
 
-preview.jpg
+preview.png
 ## Features
 
 - Auto-Deface
