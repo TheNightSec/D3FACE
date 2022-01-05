@@ -18,7 +18,7 @@ python3 ns-deface.py
 
 ## Preview
 
-preview.png
+ preview.png
 ## Features
 
 - Auto-Deface
@@ -26,17 +26,14 @@ preview.png
 - No Input required
 
 
-
-## Author
-
-- [@NS-R00T](https://www.github.com/TheNightSec)
-
-
 ## License
 
 - I am not responsible of your any illegal activity.
 - Use it at your own risk. [MIT](https://choosealicense.com/licenses/mit/)
 
+## Author
+
+- [@NS-R00T](https://www.github.com/TheNightSec)
 
 ## Support
 
