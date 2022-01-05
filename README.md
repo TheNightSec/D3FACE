@@ -18,8 +18,7 @@ python3 ns-deface.py
 
 ## Preview
 
-https://user-images.githubusercontent.com/76558503/148205207-5101b4c6-3468-42a1-9634-c33e33b1be66.png
-
+![preview](https://user-images.githubusercontent.com/76558503/148205808-1db3752f-d6a6-4d99-8d96-1c28c09018a3.png)
 ## Features
 
 - Auto-Deface
