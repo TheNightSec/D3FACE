@@ -65,7 +65,5 @@ def main():
 				print(Fore.MAGENTA,"Fail==>",Style.RESET_ALL,i+d)
 		except  requests.exceptions.RequestException:
 			continue
-
-banner
 main()
 print('\n',Fore.CYAN,'  [+]',Style.RESET_ALL,'All Defaced Sites are Saved in ns-success.txt',Fore.CYAN,'[+]',Style.RESET_ALL)
