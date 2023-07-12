@@ -1,6 +1,5 @@
 import requests
 import sys
-import os
 import time
 from colorama import Fore,Style
 
